@@ -1,4 +1,4 @@
-### Car-rental (ITALIAN project)
+### Car-rental (ITALIAN JAVA project)
 # OOP application to manage a car rental
 Before proceeding with the description of the methods related to each class, I would like to give some general explanations about the logic behind the ProjectAutonoleggio program. 
 This, in fact, is organized in six classes: Vehicle, which provides two subclasses such as Car and Van, Archive, Reservation, ArchiveReservation and ManagementAutonoleggio, or the main one.
